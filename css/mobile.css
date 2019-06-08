@@ -1,0 +1,134 @@
+#navbar img {
+    float: none;
+    padding-top: 10px;
+    margin: auto;
+    display: block;
+  }
+
+  #navbar ul {
+    float: none;
+  }
+
+  #navbar ul li {
+    float: none;
+  }
+
+  #navbar ul li a {
+    padding: 5px;
+  }
+
+  #showcase {
+    height: 300px;
+  }
+
+  #showcase .showcase-content {
+    padding-top: 15px;
+  }
+
+  #showcase .showcase-content h1 {
+    font-size: 30px;
+    line-height: 0.9em;
+  }
+
+  #showcase .showcase-content p {
+    padding-bottom: 10px;
+    line-height: 1.1em;
+  }
+
+  #main-footer {
+    padding: 5px;
+  }
+
+  #home-info {
+      height: 333px;
+  }
+
+  #home-info .info-img {
+    display: none;
+  }
+
+  #home-info .info-content {
+    float: none;
+    width: 100%;
+    padding: 20px 15px;
+  }
+
+  .box {
+      padding: 10px;
+  }
+  #about-info .mobile {
+    display: block;
+  }
+  .mobile {
+    display: block;
+  }
+  .normal {
+    display: none;
+  }
+
+#about-info .info-right {
+  float: none;
+  width: 100%;
+  text-align: center;
+}
+
+#about-info .info-left {
+    float: none;
+    width: 100%;
+    text-align: center;
+}
+
+.py-3 {
+    padding: 15px 0 0 0;
+}
+
+#remember .container h2 {
+    padding: 0 0 20px 0;
+    font-size: 40px;
+}
+
+#remember {
+    height: auto;
+    padding: 15px 0;
+}
+
+#contact-form .form-group {
+    margin-bottom: 10px;
+  }
+
+  #contact-form .container {
+    text-align: center;
+    margin-bottom: 10px;
+  }
+
+  #contact-info .container {
+    padding: 0;
+}
+
+#contact-info h3 {
+    float: left;
+    font-size: 15px;
+    padding: 5px 20px 5px 20px;
+}
+
+#contact-info p {
+    font-size: 15px;
+    margin: 0;
+    padding-left: 200px;
+}
+
+#contact-info .box {
+    height: auto;
+    float: none;
+    width: 100%;
+    padding: 0 20px;
+    margin-top: 20px;
+}
+
+#contact-info .box i {
+    float: left;
+}
+
+#attention .attention-content h1 {
+  font-size: 75px;
+}
